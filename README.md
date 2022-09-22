@@ -6,6 +6,6 @@
 
 ### Heading 3
  
-**grubo** by otrzymac uzyj ```***```
+**grubo** by otrzymac uzyj ```***``` <br>
 *italic* by otrzymac uzyj ```***```
 
