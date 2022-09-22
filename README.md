@@ -6,11 +6,14 @@
 
 ### Heading 3
  
-**bold** use ```***``` <br>
-*italic* use ```***``` <br>
- ***bold and italic***  use ```***```
+for **bold** use ```**``` <br>
+for *italic* use ```*``` <br>
+for ***bold and italic***  use ```***```
 
 link is here [tu](https://www.margonem.pl)
 
 Here is a pic of Danny DeVito:
 ![Here is a pic of Danny DeVito](https://cdn.mos.cms.futurecdn.net/a9S8crNdUjgmaDGWQTbVVM.jpg)
+
+Column 1 | Column 2 | Column 3
+--- | --- | ---
