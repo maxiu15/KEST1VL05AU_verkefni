@@ -10,3 +10,4 @@
 *italic* by otrzymac uzyj ```***``` <br>
  ***grubo i włosk***  by otrzymac uzyj ```***```
 
+link os strony jest [tu](www.margonem.pl)
