@@ -6,9 +6,9 @@
 
 ### Heading 3
  
-**grubo** by otrzymac uzyj ```***``` <br>
-*italic* by otrzymac uzyj ```***``` <br>
- ***grubo i włosk***  by otrzymac uzyj ```***```
+**bold** use ```***``` <br>
+*italic* use ```***``` <br>
+ ***bold and italic***  use ```***```
 
 link is here [tu](https://www.margonem.pl)
 
