@@ -17,3 +17,6 @@ Here is a pic of Danny DeVito:
 
 Column 1 | Column 2 | Column 3
 --- | --- | ---
+abc | kaczka | żaba
+za | bij | sie
+like | right | now 
