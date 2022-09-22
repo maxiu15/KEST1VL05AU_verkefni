@@ -8,5 +8,5 @@
  
 **grubo** by otrzymac uzyj ```***``` <br>
 *italic* by otrzymac uzyj ```***``` <br>
-*** grubo i włosko *** by otrzymac uzyj ```***```
+ ***grubo i włosk***  by otrzymac uzyj ```***```
 
