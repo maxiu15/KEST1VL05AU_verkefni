@@ -10,4 +10,7 @@
 *italic* by otrzymac uzyj ```***``` <br>
  ***grubo i włosk***  by otrzymac uzyj ```***```
 
-link os strony jest [tu](www.margonem.pl)
+link is here [tu](https://www.margonem.pl)
+
+Here is a pic of Danny DeVito:
+![Here is a pic of Danny DeVito](https://cdn.mos.cms.futurecdn.net/a9S8crNdUjgmaDGWQTbVVM.jpg)
